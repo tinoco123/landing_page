@@ -1,7 +1,3 @@
-# landing_page
-Create a landing_page practicing Git and GitHub
-Agregamos SSH
-Platzi day el 26 de marzo 
-Colaborando con Jona Tinoco
-Forkeamos el repositorio y le haremos un pull request
-Ya casi terminamos el curso
+# Landing Page
+ Este us un proyecto para prácticar los comandos de Git  y GitHub a traves de un Landing Page
+> Hecho con amor por jona
